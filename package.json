@@ -1,0 +1,30 @@
+{
+  "name": "tuxtheme",
+  "displayName": "Tux Theme",
+  "description": "A dark grayscale theme",
+  "version": "0.0.1",
+  "publisher": "none",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tuxtheme.json"
+      },
+      {
+        "label": "Tux v2 Light",
+        "uiTheme": "vs",
+        "path": "./themes/elegant-light.json"
+      },
+      {
+        "label": "Tux v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elegant-dark.json"
+      }
+    ]
+  }
+}
