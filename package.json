@@ -4,7 +4,7 @@
   "description": "A dark grayscale theme",
   "version": "0.0.1",
   "publisher": "none",
-  "icon": "icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.20.0"
   },
