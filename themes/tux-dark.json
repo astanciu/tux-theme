@@ -39,6 +39,7 @@
     "panelTitle.activeBorder": "#5c5c5c",
     "statusBar.foreground": "#9da5b4",
     "statusBar.background": "#21252b",
+    "statusBar.noFolderBackground": "#21252b",
     "activityBar.background": "#292e30",
     "activityBar.foreground": "#bababa",
     "activityBarBadge.background": "#528bff",
