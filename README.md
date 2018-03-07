@@ -2,4 +2,4 @@
 
 A grayscale dark theme for VSCode.
 
-![Tux Dark](screenshot.png)
+![Tux Dark](https://github.com/astanciu/tux-theme/raw/master/images/screenshot.png)

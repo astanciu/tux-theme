@@ -172,7 +172,8 @@
     },
     {
       "name": "Data type",
-      "scope": "keyword.type, storage.type, support.class, support.type ",
+      "scope":
+        "keyword.type, storage.type, support.class, support.type, storage.modifier",
       "settings": {
         "foreground": "#7A7A7A",
         "fontStyle": " italic"
@@ -297,7 +298,8 @@
       "scope":
         "meta.function-call.php, support.function.builtin.rust, support.function.C99, support.function.core.ruby, support.function.go, support.function.js, support.function.log.rust, support.function.magic.php, support.function.std.rust, support.function.builtin.python",
       "settings": {
-        "foreground": "#b0ec38"
+        "foreground": "#e3e3e3",
+        "fontStyle": "italic"
       }
     },
     {
@@ -436,6 +438,39 @@
       "scope": "constant.character",
       "settings": {
         "foreground": "#bababaff"
+      }
+    },
+    {
+      "scope": "entity.name.tag, support.class.component.js.jsx",
+      "settings": {
+        "foreground": "#a8a4a4",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#7a8183",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#636161"
+      }
+    },
+    {
+      "scope": "meta.tag string.quoted",
+      "settings": {
+        "foreground": "#b0b6b9",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "scope": "string.quoted",
+      "settings": {
+        "foreground": "#a1acad"
       }
     }
   ]
