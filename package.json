@@ -13,17 +13,12 @@
       {
         "label": "Tux",
         "uiTheme": "vs-dark",
-        "path": "./themes/tuxtheme.json"
+        "path": "./themes/tux-dark.json"
       },
       {
         "label": "Tux v2 Light",
         "uiTheme": "vs",
-        "path": "./themes/elegant-light.json"
-      },
-      {
-        "label": "Tux v2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/elegant-dark.json"
+        "path": "./themes/tux-light.json"
       }
     ]
   }
